@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ch07_TipCalculator</string>
+    <string name="per_person">Per Person</string>
+    <string name="per_person_label">Per Person Label</string>
+    <string name="split_label">Split Label</string>
+    <string name="round_total">Round Total</string>
+    <string name="round_tip">Round Tip</string>
+    <string name="round_no">Round No</string>
+    <string name="round_label">Round Label</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="total_amount_label">Total Amount Label</string>
+    <string name="tip_amount">Tip Amount</string>
+    <string name="tip_amount_label">Tip Amount Label</string>
+    <string name="tip_percent">Tip Percent</string>
+    <string name="tip_percent_label">Tip Percent Label</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="bill_amount_label">Bill Amount Label</string>
+</resources>
