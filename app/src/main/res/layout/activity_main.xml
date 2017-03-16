@@ -197,6 +197,17 @@
             android:layout_alignBaseline="@+id/perPersonLabel"
             android:layout_alignLeft="@+id/roundingRadioGroup"
             android:text="@string/per_person" />
+        
+        <!-- apply -->
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Apply"
+            android:id="@+id/applyButton"
+            android:layout_below="@+id/perPersonLabel"
+            android:layout_alignEnd="@+id/roundingRadioGroup"
+            android:onClick="onClick"/>
 
     </RelativeLayout>
 </ScrollView>
